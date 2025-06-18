@@ -1,0 +1,12 @@
+name: Ventas_Videojuegos
+title: Ventas_Videojuegos
+username: anafidalgo
+account: anafidalgo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10573102
+bundleId: 7957111
+url: https://anafidalgo.shinyapps.io/Ventas_Videojuegos/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
